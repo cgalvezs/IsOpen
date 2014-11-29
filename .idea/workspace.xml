@@ -45,11 +45,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="store.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="store.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dashboard/pages/user/store.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.029876977" vertical-offset="1139" max-vertical-offset="4709">
-              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+            <state vertical-scroll-proportion="-5.9814816" vertical-offset="918" max-vertical-offset="4709">
+              <caret line="73" column="38" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="branch.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dashboard/pages/user/branch.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6572935" vertical-offset="1547" max-vertical-offset="6783">
+              <caret line="113" column="40" selection-start-line="113" selection-start-column="40" selection-end-line="113" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -71,8 +81,8 @@
         <option value="$PROJECT_DIR$/Dashboard/index.php" />
         <option value="$PROJECT_DIR$/../../apps/phpmyadmin4.1.14/config.inc.php" />
         <option value="$PROJECT_DIR$/Dao/ConexionSQL.php" />
-        <option value="$PROJECT_DIR$/Dashboard/pages/user/branch.php" />
         <option value="$PROJECT_DIR$/Dashboard/pages/user/store.php" />
+        <option value="$PROJECT_DIR$/Dashboard/pages/user/branch.php" />
       </list>
     </option>
   </component>
@@ -268,14 +278,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dashboard/pages/user/branch.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47803164" vertical-offset="1564" max-vertical-offset="6817">
-          <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Dao/ConexionSQL.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="646">
@@ -286,8 +288,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dashboard/pages/user/store.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.029876977" vertical-offset="1139" max-vertical-offset="4709">
-          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        <state vertical-scroll-proportion="-5.9814816" vertical-offset="918" max-vertical-offset="4709">
+          <caret line="73" column="38" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dashboard/pages/user/branch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6572935" vertical-offset="1547" max-vertical-offset="6783">
+          <caret line="113" column="40" selection-start-line="113" selection-start-column="40" selection-end-line="113" selection-end-column="40" />
           <folding />
         </state>
       </provider>
