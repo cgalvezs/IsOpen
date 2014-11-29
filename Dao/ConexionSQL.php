@@ -18,7 +18,7 @@
          $this->db_name = 'IsOpenDB';
          $this->server = 'localhost';
          $this->user = 'root';
-         $this->pass = 'root';
+         $this->pass = '';
 
      }
 
